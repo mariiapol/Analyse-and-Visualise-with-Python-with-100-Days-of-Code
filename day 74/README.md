@@ -15,7 +15,7 @@ Did LEGO sets grow in size and complexity over time? Do older LEGO sets tend to 
 
 
 
-What you'll learn today
+Concepts Practised:
 
 
 
