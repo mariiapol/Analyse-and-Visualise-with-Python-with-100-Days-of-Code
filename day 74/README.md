@@ -1,4 +1,4 @@
-Learn to Aggregate and Merge Data in Pandas while Analysing a Dataset of LEGO Pieces
+# Learn to Aggregate and Merge Data in Pandas while Analysing a Dataset of LEGO Pieces
 
 
 Today we're going to be diving deep into a dataset all about LEGO, which will help us answer a whole bunch of interesting questions about the history of the company, their product offering, and which LEGO set rules them all:
@@ -15,7 +15,7 @@ Did LEGO sets grow in size and complexity over time? Do older LEGO sets tend to 
 
 
 
-Concepts Practised:
+# Concepts Practised:
 
 
 
