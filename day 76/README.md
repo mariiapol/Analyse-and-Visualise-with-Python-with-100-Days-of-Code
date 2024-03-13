@@ -20,6 +20,9 @@ Which paid apps have had the highest revenue
 How many paid apps will recoup their development costs based on their sales revenue
 
 
+# Data Source:
+App and review data was scraped from the Google Play Store by Lavanya Gupta in 2018. Original files listed (
+https://www.kaggle.com/lava18/google-play-store-apps).
 
 # Today you'll learn:
 
