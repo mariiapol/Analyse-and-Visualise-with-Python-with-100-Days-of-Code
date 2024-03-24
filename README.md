@@ -9,3 +9,6 @@ Day 74: Aggregate & Marge Data with Pandas: Analyse the Lego Dataset
 Day 75: Google Trends Data: Resampling and Visualising Time Series
 
 Day 76: Beautiful Plotly Charts & Analysing the Android App Store
+
+Day 77: Mastering NumPy and Multidimensional Arrays
+
