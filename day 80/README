@@ -1,0 +1,28 @@
+The Tragic Discovery of Handwashing: t-Tests & Distributions
+
+This GitHub project invites you to step into the shoes of Dr. Ignaz Semmelweis, the pioneering Hungarian physician at Vienna General Hospital, who challenged medical norms to uncover the truth behind childbed fever.
+
+In the 19th century, the concept of bacteria and germs was unknown, and illnesses were often attributed to "bad air" or malevolent forces. However, the era of data-driven medical inquiry was dawning. Dr. Semmelweis, 
+observing the high mortality rates in maternity wards, hypothesized that the cause was related to hygiene practices. This project will guide you through his analytical process using modern data science techniques.
+
+•  Crafting persuasive arguments with data.
+
+•  Superimposing histograms for comparative distribution analysis.
+
+•  Employing Kernel Density Estimates (KDE) for graphical distribution representation.
+
+•  Utilizing scipy for statistical significance and p-value analysis.
+
+•  Enhancing time series charts in Matplotlib with highlights.
+
+•  Adding and customizing legends in Matplotlib.
+
+•  Applying NumPy's .where() function for conditional element processing.
+
+Despite the compelling evidence supporting Dr. Semmelweis's theory that a "substance" (now known as bacteria) from autopsy rooms caused childbed fever, his ideas were initially dismissed by the medical establishment. His lack of tact and unconventional presentation of data, primarily in long tables without visual aids, hindered his message. Facing resistance, he lost his position and, over time, became ostracized, leading to a tragic end. Yet, his legacy prevailed, and his findings were later validated by Louis Pasteur's germ theory.
+
+This repository contains all the necessary resources to replicate Dr. Semmelweis's analysis with contemporary tools. You'll find a step-by-step guide to visualizing data, testing hypotheses, and ultimately understanding the impact of handwashing on patient outcomes.
+
+By the end of this project, you'll not only have gained valuable data science skills but also an appreciation for the historical context of medical advancements. Download the complete code and embark on this enlightening exploration of data and history.
+
+As you delve into the data, reflect on the perseverance and dedication it takes to challenge the status quo. Honor Dr. Semmelweis's memory by learning the proper handwashing technique included in this project, a simple yet profound practice that saves lives to this day.
